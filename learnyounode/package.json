@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "babysteps.js",
+  "dependencies": {
+    "concat-stream": "~1.4.5",
+    "moment": "~2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
