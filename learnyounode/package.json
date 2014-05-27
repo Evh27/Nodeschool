@@ -5,7 +5,8 @@
   "main": "babysteps.js",
   "dependencies": {
     "concat-stream": "~1.4.5",
-    "moment": "~2.6.0"
+    "moment": "~2.6.0",
+    "through2-map": "~1.2.1"
   },
   "devDependencies": {},
   "scripts": {
